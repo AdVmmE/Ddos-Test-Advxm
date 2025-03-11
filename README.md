@@ -5,7 +5,7 @@ This project is designed to simulate Distributed Denial of Service (DDoS) attack
 
 ## Technologies Used
 ![JavaScript](https://img.shields.io/badge/javascript-x2-yellow.svg)
-![node.js](https://img.shields.io/badge/nodeJs-v22.12.0-yellow.svg)
+![node.js](https://img.shields.io/badge/nodeJs-v22.12.0-green.svg)
 
 ## Setup Instructions
 1. Clone the repository:
