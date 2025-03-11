@@ -29,8 +29,6 @@ Here are some screenshots of the project in action:
 
 ![Screenshot 1](./asset/first.png)
 
-## File Structure
-Ddos_For_Tests_Advxm/ │── main.js │── config.json │── README.md │── package.json │── scripts/ │ ├── attack.js │ ├── monitor.js │── logs/ │ ├── ddos.log │── dashboard/ │ ├── grafana-config.json
 
 
 
@@ -39,3 +37,5 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
+## Creator
+----------------------☺️Advxm☺️---------------------------
